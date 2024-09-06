@@ -1,4 +1,4 @@
-##  Project Name: nginx Docker and Kubernetes Tutorial by OLATUNDE OLABODE RICHARD
+##  Project Name: nginx Docker and Kubernetes Tutorial by LUCIANO REGAL
 ## Description: The "nginx Docker and Kubernetes Tutorial" project aims to provide a step-by-step guide on how to containerize a simple HTML and CSS web application using Docker and deploy it to a Kubernetes cluster using kind. 
 ## The project's main goal is to help individuals who are new to Docker and Kubernetes understand the process of building and deploying containerized applications. 
 ## By following the provided documentation, users will learn how to create a Dockerfile, build a Docker image, push it to Docker Hub, set up a Kubernetes cluster using kind, deploy the Docker image to the cluster, and expose the application using a Kubernetes service.
